@@ -1,4 +1,4 @@
-# Bank Salad Pre Test 
+# Project Goal
 - Get Maximum Profit Date for 180 days from today.
 
 ## - Environment
@@ -33,6 +33,6 @@
 - search_result: 검색 결과 화면 
 
 ### Test
-- Entity
-- Service
-- Controller
+- Domain: 엔티티 생성, 업데이트 테스트 
+- Service: 서비스 기능(데이터 업데이트, 데이터 연산) 테스트 
+- Controller: 페이지 전환, 데이터 전송 테스트
